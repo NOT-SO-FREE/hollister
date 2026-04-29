@@ -9,10 +9,10 @@ export const metadata: Metadata = {
   description: 'Claim Your Hollister Rewards',
   icons: {
     icon: {
-      url: '/favicon.webp',
-      type: 'image/webp',
+      url: '/_favicon.ico',
+      type: 'image/ico',
     },
-    shortcut: '/favicon.webp',
+    shortcut: '/_favicon.ico',
   },
 };
 

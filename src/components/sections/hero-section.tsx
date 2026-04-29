@@ -12,7 +12,7 @@ const HeroSection = () => {
             alt="Hollister Logo"
             width={128}
             height={128}
-            className="w-full h-full object-contain drop-shadow-xl"
+            className="w-full h-full object-contain"
           />
         </div>
       </div>
